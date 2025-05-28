@@ -14,8 +14,9 @@ This project contains an implementation of the TensorFlow Object Detection API, 
 6. [Project Structure](#project-structure)
 7. [Testing & Evaluation](#testing--evaluation)
 8. [Contributing](#contributing)
-9. [Acknowledgments](#acknowledgments)
-10. [License](#license)
+9. [Results Screenshots](#results-screenshots)
+10. [Acknowledgments](#acknowledgments)
+11. [License](#license)
 
 ---
 
@@ -95,7 +96,15 @@ The TensorFlow Object Detection API simplifies the process of training, evaluati
 * Ensure your test images are in `object_detection/test_images/`.
 * Run `object_detection.ipynb` and follow the steps to evaluate model performance.
 
+## Results Screenshots
 
+Below are example detection outputs produced by the TensorFlow Object Detection API.
+
+<!-- Adjust filenames as needed -->
+![Screenshot 1](<expected results/Picture1.png>)
+![Screenshot 2](<expected results/Picture2.png>)
+![Screenshot 3](<expected results/Picture3.png>)
+![Screenshot 4](<expected results/Picture4.png>)
 
 ## Acknowledgments
 

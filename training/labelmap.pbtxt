@@ -1,0 +1,29 @@
+item {
+  id: 1
+  name: 'Organic-apple'
+}
+
+item {
+  id: 2
+  name: 'Organic-banana'
+}
+
+item {
+  id: 3
+  name: 'Organic-orange'
+}
+
+item {
+  id: 4
+  name: 'Recycleable-bottle'
+}
+
+item {
+  id: 5
+  name: 'Recycleable-metal can'
+}
+
+item {
+  id: 6
+  name: 'Recycleable-cardboard'
+}
